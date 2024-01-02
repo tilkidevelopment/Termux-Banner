@@ -14,7 +14,7 @@ Ejderha ne demesini istiyorsun? :
  "
 read varejder
 
-echo  "cowsay -f dragon "$varcejder" | lolcat" > ejder.txt
+echo  "cowsay -f dragon "$varejder" | lolcat" > ejder.txt
 echo "toilet -f big ' $varbanner' -F gay | lolcat" > banner.txt
 echo
 echo "clear" > temizle.txt
